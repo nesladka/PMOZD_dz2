@@ -25,7 +25,7 @@ plt.plot(x1_green, -3/4 * x1_green, linestyle='-.', color='purple', label='Perpe
 plt.plot(8, 0, 'o', c='purple')
 plt.text(8, -1, 'Max (8, 0)')
 
-plt.title('Optimization Plot')
+plt.title('Задача оптимизации')
 plt.grid(True)
 plt.legend()
 
